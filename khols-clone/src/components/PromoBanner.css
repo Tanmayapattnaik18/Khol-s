@@ -1,0 +1,67 @@
+.dc{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: center;
+    background-color: #FFFFFF;
+}
+.earn{
+    background-color: #EDF4d7;
+    color: #008000;
+    margin: 1%;
+    padding: 2%;
+}
+.earn>a{
+    color: black;
+}
+.rewards{
+    background-color: #008000;
+    color: white;
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    line-height: 50px;
+    padding: 2%;
+}
+.rewards>a{
+    color: whitesmoke;
+}
+.return{
+    background-color: #860035;
+    color: white;
+    margin: 1%;
+    line-height: 50px;
+    padding: 2%;
+}
+.return>a{
+    color: whitesmoke;
+}
+
+span{
+    font-weight: bolder;
+}
+.advertisement{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+}
+.event{
+    background-color: #D8CEC5;
+}
+.offer{
+    background-color: #FCF8EF;
+}
+.box{
+    display: flex;
+    flex-direction:row;
+    color:black;
+    justify-content: space-around;
+    margin: 3%;
+}
+.bu{
+    background-color: #E1D4C3;
+    padding: 3%;
+    border-radius: 10PX;
+}
