@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Navbar from './components/Navbar';
 import PromoBanner from './components/PromoBanner';
-// import CategorySection from './components/CategorySection';
+ import CategorySection from './components/CategorySection';
 import Footer from './components/Footer';
 import './App.css';
 
@@ -12,7 +12,7 @@ function App() {
       <Header />
       <Navbar />
       <PromoBanner />
-      {/* <CategorySection /> */}
+     <CategorySection /> 
       <Footer />
     </div>
   );
